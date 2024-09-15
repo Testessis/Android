@@ -1,0 +1,53 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "APP PracticADM"
+  ],
+  "treeExpansions": [
+    [
+      "Inputs",
+      "APP PracticADM"
+    ],
+    [
+      "Código fonte",
+      "APP PracticADM"
+    ],
+    [
+      "com.google.android.material.internal",
+      "Código fonte",
+      "APP PracticADM"
+    ],
+    [
+      "br.com.almosteraat.practicadm",
+      "Código fonte",
+      "APP PracticADM"
+    ],
+    [
+      "br.com.almosteraat.practicadm.Categoria",
+      "br.com.almosteraat.practicadm",
+      "Código fonte",
+      "APP PracticADM"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "br.com.almosteraat.practicadm.Categoria",
+      "subPath": "java",
+      "caret": 1798,
+      "view": {
+        "x": 0,
+        "y": 690
+      },
+      "active": true
+    }
+  ],
+  "cacheDir": "C:\\Users\\Nariki\\AppData\\Local\\skylot\\jadx\\cache\\projects\\APP PracticADM-140bfbce1c9826a5f99f800b79afd496",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
